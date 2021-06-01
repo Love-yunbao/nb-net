@@ -1,2 +1,5 @@
 rootProject.name = 'nb-net'
+include 'music'
+include 'com'
+include 'manage'
 
